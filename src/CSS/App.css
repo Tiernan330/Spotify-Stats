@@ -1,0 +1,47 @@
+.Main-NavBar{
+    height: 80px;
+}
+
+.NavBar-Text{
+    color: white;
+}
+
+.Nav-Bar-Container{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Item{
+    margin-left: 10px;
+}
+
+.Nav-Bar-Toggle{
+    display: flex;
+    flex-direction: row;
+}
+
+.me-auto{
+    display: flex;
+    flex-direction: row;  
+    position: absolute;
+}
+
+.Nav-Bar-Left-Container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.button-Container{
+    min-width: 200px;
+    align-items: center;
+    justify-content: center;
+}
+
+body{
+    height: 0vh;
+}

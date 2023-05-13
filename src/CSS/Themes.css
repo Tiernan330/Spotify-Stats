@@ -1,0 +1,81 @@
+/* Dark Color Theme */
+
+#dark-Primary{
+  background-color: #36393F;
+  color: whitesmoke;
+  outline: whitesmoke;
+  border-color: whitesmoke;
+}
+
+#dark-Secondary{
+  background-color: #2F3136;
+  color: whitesmoke;
+  outline: whitesmoke;
+  border-color: whitesmoke;
+}
+
+#dark-Tertiary{
+  background-color: #202225;
+  color: whitesmoke;
+  outline: whitesmoke;
+  border-color: whitesmoke;
+}
+
+#dark-Fourth{
+  background-color: #292B2F;
+  color: whitesmoke;
+  outline: whitesmoke;
+  border-color: whitesmoke;
+}
+
+#dark-Inversion{
+  background-color: whitesmoke;
+  color: #202225;
+  outline: #202225;
+  border-color: #202225;
+}
+
+#dark-Inversion path{
+  fill: red;
+  stroke: blue;
+}
+
+
+
+/* ------------------------------------------------------- */
+/* Light Color Theme */
+
+#light-Primary{
+  background-color: #C9C6C0;
+  color: #232323;
+  outline: #232323;
+  border-color: #232323;
+}
+
+#light-Secondary{
+  background-color: #D0CEC9;
+  color: #232323;
+  outline: #232323;
+  border-color: #232323;
+}
+
+#light-Tertiary{
+  background-color: #DFDDDA;
+  color: #232323;
+  outline: #232323;
+  border-color: #232323;
+}
+
+#light-Fourth{
+  background-color: #D6D4D0;
+  color: #232323;
+  outline: #232323;
+  border-color: #232323;
+}
+
+#light-Inversion{
+  background-color: #232323;
+  color: #D6D4D0;
+  outline: #D6D4D0;
+  border-color: #D6D4D0;
+}

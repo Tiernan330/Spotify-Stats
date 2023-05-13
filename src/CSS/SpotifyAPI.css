@@ -1,0 +1,50 @@
+.SpotifyAPI{
+    padding-top: 20px;
+}
+
+.Albums-Container{
+    height: calc(100vh - 163px);
+    overflow-y: scroll;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.Data-Container{
+    height: calc(100vh - 100px);
+}
+
+.Search-Button{
+    border: 5px;
+}
+
+.Album-Card{
+    max-height: 360px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Album-Title{
+    max-height: 48px;
+    overflow-y: hidden;
+    text-align: center; 
+    margin: 0;
+    margin-top: 5px;
+}
+.Card-Body{
+    padding: 0px;
+    height: 64px;
+}
+
+.Graphs-Container{
+    overflow-y: scroll;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.Data-Body{
+    max-height: 372px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
