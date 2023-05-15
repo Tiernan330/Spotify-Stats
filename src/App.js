@@ -18,7 +18,7 @@ function TopNavBar(prop) {
     <Navbar id={theme+'-Primary'} variant={theme} expand="xl" className='Main-NavBar Primary'>
       <div className='Nav-Bar-Container'>
         <div className='Nav-Bar-Left-Container'>
-          <Navbar.Brand href="/">Spotify Data</Navbar.Brand>
+          <Navbar.Brand href="/">Spotify Stats</Navbar.Brand>
         </div>
         
         <div className='button-Container'>
